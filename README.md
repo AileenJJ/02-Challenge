@@ -20,3 +20,10 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Screenshot
+
+![Horiseon Website Screenshot](<Screenshot (58).png>)
+
+## Link To Website
+https://aileenej.github.io/Horiseon/
